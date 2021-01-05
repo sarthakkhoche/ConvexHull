@@ -28,7 +28,7 @@ $ python3 -B algo2.py
 
 A grid interface will appear initially. Select coordinates as inputs and close the interface once you are done selecting. The algorithm will start running as soon as you close the interface, wait till the program outputs **Done!** and open *./jm/output.gif* to see the visualization
 
-![Alt_Text_13(https://github.com/sarthakkhoche/CompGeo_Project/blob/master/results/r1.gif)
+![Alt_Text_3](https://github.com/sarthakkhoche/CompGeo_Project/blob/master/results/r1.gif)
 
 PS - Initially, the alogorithm is run on some random inputs and consequently both the directories already exist along with the outputs. If you want to run it on your given inputs, just re-run the code with your inputs from the interface.
 
