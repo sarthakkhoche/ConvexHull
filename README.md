@@ -1,4 +1,4 @@
-# CompGeo Project
+# Convex Hull
 
 Implementation of the O(n<sup>3</sup>) algorithm and the Jarvis March Algorithm to compute the convex hull of n points in the plane. Comparing the performance of the two algorithms for different values of n. 
 
